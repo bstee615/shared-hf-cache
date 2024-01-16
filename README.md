@@ -1,6 +1,6 @@
 # Shared HuggingFace cache
 
-This is how we set up a shared HuggingFace cache.
+This is how we set up a shared HuggingFace cache. Read more in the blog post! https://benjijang.com/posts/2024/01/shared-hf-cache/
 
 # Set it up
 
